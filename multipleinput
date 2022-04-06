@@ -1,0 +1,8 @@
+
+echo "enter the username: "
+read first_name
+echo "the current user name is $first_name"
+echo
+echo "enter other users 'names: "
+read name1 name2 name3
+echo "$name1, $name2, $name3 are the other users."
